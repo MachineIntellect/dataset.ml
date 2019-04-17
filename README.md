@@ -1,2 +1,2 @@
 # dataset.ml
-dataset for Machine Learning, Data Mining, Data science
+csv format, dataset for Machine Learning, Data Mining, Data science
